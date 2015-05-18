@@ -1,0 +1,27 @@
+add 0 1 R0 30.3
+
+add 8 9 Fancy_res 80.33
+
+find Nancy
+
+find Fancy_res
+
+add 2 0 R1 40.8
+
+add 3 0 R2 50
+
+add 4 0 R3 88.99
+
+add 5 0 R4 17.68
+
+add 6 0 R5 29.8
+
+changeR R5 22
+
+changeR R1 22
+
+list all
+
+clear all
+
+list all

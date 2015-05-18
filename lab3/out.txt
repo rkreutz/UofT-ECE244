@@ -1,0 +1,88 @@
+> Added: resistor R0 30.3 Ohms 0 -> 1
+
+> Added: resistor Fancy_res 80.3 Ohms 8 -> 9
+
+> Error: resistor Nancy cannot be found
+
+> Found: Fancy_res              80.3 Ohms 8 -> 9
+
+> Added: resistor R1 40.8 Ohms 2 -> 0
+
+> Added: resistor R2 50.0 Ohms 3 -> 0
+
+> Added: resistor R3 89.0 Ohms 4 -> 0
+
+> Added: resistor R4 17.7 Ohms 5 -> 0
+
+> Error: node is full
+
+> Error: resistor R5 cannot be found
+
+> Changed R1 from 40.8 Ohms to 22.0 Ohms
+
+> Connections at node 0: 5 resistor(s)
+
+  R0                     30.3 Ohms 0 -> 1
+
+  R1                     22.0 Ohms 2 -> 0
+
+  R2                     50.0 Ohms 3 -> 0
+
+  R3                     89.0 Ohms 4 -> 0
+
+  R4                     17.7 Ohms 5 -> 0
+
+Connections at node 1: 1 resistor(s)
+
+  R0                     30.3 Ohms 0 -> 1
+
+Connections at node 2: 1 resistor(s)
+
+  R1                     22.0 Ohms 2 -> 0
+Connections at node 3: 1 resistor(s)
+
+  R2                     50.0 Ohms 3 -> 0
+
+Connections at node 4: 1 resistor(s)
+
+  R3                     89.0 Ohms 4 -> 0
+
+Connections at node 5: 1 resistor(s)
+
+  R4                     17.7 Ohms 5 -> 0
+
+Connections at node 6: 0 resistor(s)
+
+Connections at node 7: 0 resistor(s)
+
+Connections at node 8: 1 resistor(s)
+
+  Fancy_res              80.3 Ohms 8 -> 9
+
+Connections at node 9: 1 resistor(s)
+
+  Fancy_res              80.3 Ohms 8 -> 9
+
+> Clear all
+
+> Connections at node 0: 0 resistor(s)
+
+Connections at node 1: 0 resistor(s)
+
+Connections at node 2: 0 resistor(s)
+
+Connections at node 3: 0 resistor(s)
+
+Connections at node 4: 0 resistor(s)
+
+Connections at node 5: 0 resistor(s)
+
+Connections at node 6: 0 resistor(s)
+
+Connections at node 7: 0 resistor(s)
+
+Connections at node 8: 0 resistor(s)
+
+Connections at node 9: 0 resistor(s)
+
+> 
